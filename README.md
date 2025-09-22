@@ -24,3 +24,45 @@ Traditional online fashion platforms, while vast in catalog size, struggle to de
 
 # **Our Solution 💡**
 
+**Sync Studio** helps users complete their outfits by suggesting the best matching pieces from the catalog.
+A user can upload or pick a single clothing item (top, bottom, or accessory), and the AI curates the rest.
+This turns confusion into confidence, boosting cross-selling and customer satisfaction.
+
+![alt text](image.png)
+
+**Upload to Start** — Upload an image and let the system detect whether it’s a top, bottom or accessory.
+**Auto Classify + Smart Suggestions** — AI (image + LLM) identifies the uploaded item and suggests matching top, bottom and accessory products from the catalog.
+**Catalog Search via Embeddings** — Search and match use vector search (FAISS + OpenAI embeddings) so recommendations return real product names from your dataset.
+**Image Hosting & Sharing** — Uploaded images are stored (ImgBB in current flow) so users can share looks or submit them to challenges.
+
+**Pick By Place** is a smart outfit recommender that combines weather data, semantic embeddings, and FAISS search to suggest the most suitable looks for any event or style. Powered by FastAPI, it delivers curated recommendations instantly with AI explanations.
+
+**FAISS + OpenAI Embeddings** – Efficient semantic similarity search over product catalog for context-aware outfit matching.
+**FastAPI Backend** – Lightweight, high-performance API layer with structured endpoints for real-time recommendations.
+**Weather API Integration** – Dynamic personalization by aligning fashion choices with live weather conditions of user’s location.
+
+![alt text](image-6.png)
+![alt text](image-7.png)
+
+
+**Virtual Vanity** 
+An AI-powered virtual trial room that lets users try on outfits digitally using their uploaded photo or body measurements. It blends computer vision and generative AI to create realistic outfit overlays.
+
+**Computer Vision + Pose Estimation** – Accurate body detection and alignment for natural-looking outfit fitting.
+**Generative AI (Diffusion / GANs)** – Realistic rendering of fabrics, textures, and lighting for life-like try-ons.
+**Web-based Integration** – Seamless user experience via browser or mobile, no heavy local processing required.
+
+![alt text](image-2.png)
+
+### **A brand new initiave** 
+**Senora** opens a fresh market by catering to senior citizens with relatable fashion options.
+
+![alt text](image-1.png)
+
+### **Welcome to The Style Arena Battleground**
+**Style Arena** Battle is a monthly challenge where users create two outfits for the same theme — one Budget Look with affordable items and one Premium Look with high-end brands, all from Myntra’s catalog. After submitting, the community votes on the most creative pair, and top entries win vouchers and get featured. This drives user engagement, encourages catalog exploration, and boosts sales across both budget and premium categories.
+
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+
