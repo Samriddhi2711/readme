@@ -2,7 +2,7 @@
 
 Traditional online fashion platforms, while vast in catalog size, struggle to deliver personalized, interactive, and community-driven experiences that resonate with diverse customer groups. Shoppers — from Gen Z trendsetters to elderly buyers — often face friction in visualization, contextual recommendations, and inclusivity, resulting in lost opportunities for deeper engagement and loyalty.
 
-## Key Challenges ⚠️
+### Key Challenges ⚠️
 
 Mix-and-Match Confusion:
 Users who own a single item (like a top, bottom, or accessory) often struggle to visualize how it can be paired into a complete outfit. This creates hesitation and reduces cross-selling potential.
@@ -19,7 +19,7 @@ The elderly segment remains underserved in fashion e-commerce. Lack of represent
 Engagement Deficit:
 The absence of social interaction and community building, central to Gen Z's online experience, weakens loyalty and engagement within traditional retail spaces.
 
-# **Use Cases** 
+## **Use Cases 🛠️** 
 Virtual Trial Rooms 🪞 – Reduce uncertainty by showing how users will look in selected outfits.
 Personalized Styling 🌦️– AI suggests matching outfits based on location ,weather, occasion and preferences .
 Sync Studio 👗: AI completes an outfit when a user uploads or selects a single clothing item.
