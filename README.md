@@ -54,7 +54,7 @@ An AI-powered virtual trial room that lets users try on outfits digitally using 
 
 ![alt text](image-2.png)
 
-### **A brand new initiave** 
+### **A brand new initiative** 
 **Senora** opens a fresh market by catering to senior citizens with relatable fashion options.
 
 ![alt text](image-1.png)
