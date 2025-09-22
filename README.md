@@ -87,7 +87,7 @@ An AI-powered virtual trial room that lets users try on outfits digitally using 
 **Video Trials 🎥** – Let users try outfits in motion by uploading short videos or using live camera feeds. The system visualizes how clothes fit, move, and drape in real time, providing a far more immersive and realistic trial experience than static images.
 future scope.
 
-<video controls src="Untitled video - Made with Clipchamp.mp4" title="Title"></video>
+![alt text](demo.gif)
 
 **Implementation Flowchart**
 ![alt text](image-8.png)
