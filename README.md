@@ -66,3 +66,28 @@ An AI-powered virtual trial room that lets users try on outfits digitally using 
 ![alt text](image-4.png)
 ![alt text](image-5.png)
 
+
+## **Tech Stack** 
+
+- **FastAPI Backend** → Powers the API layer for recommendations and user interactions.
+
+- **OpenAI (Embeddings + LLM)** → Generates semantic embeddings for catalog search and explains outfit choices in natural language.
+
+- **FAISS Vector Database** → Stores embeddings and enables fast similarity search for products.
+
+- **OpenWeather API** → Integrates real-time weather data into styling recommendations.
+
+- **Computer Vision (OpenCV, Mediapipe, SAM/YOLO)** → For image classification, virtual try-on, and outfit visualization.
+
+- **Frontend** → Enables upload, sharing, and gamified fashion challenges with a clean user interface.
+
+- **Inclusive Catalog Pages** → Dedicated collections for Gen Z, elderly users, and style-based gamified challenges.
+
+# **Future Scope**
+**Video Trials 🎥** – Let users try outfits in motion by uploading short videos or using live camera feeds. The system visualizes how clothes fit, move, and drape in real time, providing a far more immersive and realistic trial experience than static images.
+future scope.
+
+<video controls src="Untitled video - Made with Clipchamp.mp4" title="Title"></video>
+
+**Implementation Flowchart**
+![alt text](image-8.png)
