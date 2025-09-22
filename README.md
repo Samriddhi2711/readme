@@ -35,6 +35,8 @@ This turns confusion into confidence, boosting cross-selling and customer satisf
 - **Catalog Search via Embeddings** — Search and match use vector search (FAISS + OpenAI embeddings) so recommendations return real product names from your dataset.
 - **Image Hosting & Sharing** — Uploaded images are stored (ImgBB in current flow) so users can share looks or submit them to challenges.
 
+![alt text](image-10.png)
+
 **Pick By Place** is a smart outfit recommender that combines weather data, semantic embeddings, and FAISS search to suggest the most suitable looks for any event or style. Powered by FastAPI, it delivers curated recommendations instantly with AI explanations.
 
 - **FAISS + OpenAI Embeddings** – Efficient semantic similarity search over product catalog for context-aware outfit matching.
@@ -68,6 +70,8 @@ An AI-powered virtual trial room that lets users try on outfits digitally using 
 
 
 ## **Tech Stack** 
+**High Level Overview**
+![alt text](image-9.png)
 
 - **FastAPI Backend** → Powers the API layer for recommendations and user interactions.
 
@@ -93,4 +97,11 @@ future scope.
 ![alt text](image-8.png)
 
 
-# Made with ❤️ by Team TriSpark
+# Made with ❤️ by Team TriSpark 
+Members : Samriddhi Tripathi 
+Bhavika Vishnoi 
+Pooja Singh 
+
+## References 
+[https://johannakarras.github.io/Fashion-VDM/](https://johannakarras.github.io/Fashion-VDM/)
+
