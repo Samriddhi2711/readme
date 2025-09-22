@@ -21,11 +21,17 @@ The absence of social interaction and community building, central to Gen Z's onl
 
 ## **Use Cases 🛠️** 
 Virtual Trial Rooms 🪞 – Reduce uncertainty by showing how users will look in selected outfits.
+
 Personalized Styling 🌦️– AI suggests matching outfits based on location ,weather, occasion and preferences .
+
 Sync Studio 👗: AI completes an outfit when a user uploads or selects a single clothing item.
+
 Inclusive Fashion 🌍 – Senora line caters to elderly shoppers with stylish, comfortable clothing.
+
 Engagement on Platform 🛍️ – Gamified outfit challenges (Style Area Battle) increase time spent and repeat visits.
+
 Social Shopping 📲 – Users share looks, vote, and “Shop the Look” directly from community submissions.
+
 
 # **Our Solution 💡**
 
